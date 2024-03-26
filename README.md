@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nargiza
 ===========================================================================================================================
 
 Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
+👋 Hi there! I’m Nargiza, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. 
 
 **About Me** 🎓 
 
