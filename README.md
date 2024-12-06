@@ -10,7 +10,7 @@ Software Developer | Python Enthusiast | Lifelong Learner
 **About Me** 🎓 
 
 I hold a degree in Business Studies and . 
-📊 Proficient in Python, SQL programming languages (Matplotlib, Seaborn). 
+📊 Proficient in HTML, CSS, Javascript, Python, SQL programming languages. 
 🧩 Skilled in creating, testing, troubleshooting websites. 
 🌐 Curious about Data Analysis and Visualisation. 
 
