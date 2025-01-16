@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**NargizkaK/NargizkaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NargizkaK/NargizkaK** is a ✨ _My name is Nargiza_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
@@ -17,22 +17,24 @@ Hi My name is Nargiza
 Software Developer | Python Enthusiast | Lifelong Learner
 👋 Hi there! I’m Nargiza, an aspiring software developer and I’m excited to share my projects and experiences.
 
-About Me 🎓
+**About Me** 🎓
 
 I hold a degree in Business Studies and . 📊 Proficient in HTML, CSS, Javascript, Python, SQL programming languages. 🧩 Skilled in creating, testing, troubleshooting websites. 🌐 Curious about Data Analysis and Visualisation. Currently working as a Junior Software Developer at 2 Toucans.
 
-Projects
+**Projects**
 
-Database System using SQL workbench created relational Database System for Breakdown company.
+1) **Database System** using SQL workbench created relational Database System for Breakdown company.
 
-Filmflix App Created app for a client, where user can inetface: retrive, delete, add and update data in the app.
+2) **Filmflix App** Created app for a client, where user can inetface: retrive, delete, add and update data in the app.
+<br />
 
-🌍  I'm based in London
-✉️  You can contact me at nargizka.uk@outlook.com
-🧠  I'm learning Drupal
-🤝  I'm open to collaborating on Healthcare projects
-Skills
-Python  HTML5  CSS  JavaScript  MySQL  PowerBI 
+*🌍  I'm based in London
+*✉️  You can contact me at nargizka.uk@outlook.com
+*🧠  I'm learning Drupal
+*🤝  I'm open to collaborating on Healthcare projects
+
+
+### Skills
 
  
 <p align="left"> 
@@ -41,4 +43,4 @@ Python  HTML5  CSS  JavaScript  MySQL  PowerBI
 
 
 
-Skills Snapshot Languages: HTML, CSS, JavaScript, Python, SQL, Git, GitHub
+**Skills Snapshot Languages**: HTML, CSS, JavaScript, Python, SQL, Git, GitHub
